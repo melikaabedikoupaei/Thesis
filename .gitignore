@@ -1,0 +1,3 @@
+*.parquet
+in-period/
+out-of-peirod/
